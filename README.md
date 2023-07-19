@@ -1,6 +1,4 @@
-# <center> Phase 4
-
-### <ins>Executable commands:</ins>
+## <ins>Executable commands:</ins>
 
 - Command 1 - enter 1
 
@@ -208,7 +206,7 @@
 - `Note 3:` Change the username and password to the details of the system on which testing is being done in the `Miniworld.py` file (lines `887` and `888`)
 <hr>
 
-### <ins>Contributors:</ins>
+## <ins>Contributors:</ins>
 - [Abhinav Reddy Boddu](https://github.com/Abhinavreddy-B)
 - [Rohit Gowlapalli](https://github.com/ROHIT32767)
 - [Gnana Prakash Punnavajhala](https://github.com/GnanaPrakashSG2004)
